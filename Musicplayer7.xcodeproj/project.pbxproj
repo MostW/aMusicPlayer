@@ -22,6 +22,7 @@
 		8C7D72551FF7519100F8D4A6 /* MainPlayVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D72531FF7519000F8D4A6 /* MainPlayVC.m */; };
 		8C7D72561FF7519100F8D4A6 /* MainPlayVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C7D72541FF7519000F8D4A6 /* MainPlayVC.xib */; };
 		8C7D72591FF788B300F8D4A6 /* PlayTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D72581FF788B300F8D4A6 /* PlayTool.m */; };
+		8CFC43352025955700272524 /* MusicInfoModel.h in Resources */ = {isa = PBXBuildFile; fileRef = 8C7D720D1FF62C4600F8D4A6 /* MusicInfoModel.h */; };
 		B0E03E98B8D91AC4FCD5FA33 /* libPods-Musicplayer7.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B01FA0A2992D8B9A12682A7 /* libPods-Musicplayer7.a */; };
 /* End PBXBuildFile section */
 
@@ -223,6 +224,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CFC43352025955700272524 /* MusicInfoModel.h in Resources */,
 				8C636A191FF20A4B00F5D252 /* LaunchScreen.storyboard in Resources */,
 				8C636A161FF20A4B00F5D252 /* Assets.xcassets in Resources */,
 				8C636A141FF20A4B00F5D252 /* Main.storyboard in Resources */,
